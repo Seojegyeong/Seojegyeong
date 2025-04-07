@@ -1,137 +1,81 @@
-<!-- 헤더 이미지 (Capsule Render) -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Jegyoeng's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60"
-    alt="Jegyeog's GitHub"
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333;">
+
+  <!-- 헤더 이미지 -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9CA3AF&text=Jegyoeng's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" 
+    alt="Jegyoeng's GitHub" 
+    style="margin-bottom: 20px;"
   />
+
+  <!-- Contact Section -->
+  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">🧑‍💻 Contact Me 🧑‍💻</h2>
+  <div>
+    <a href="https://www.notion.so/your-notion-id">
+      <img 
+        src="https://img.shields.io/badge/Notion-4B5563?style=for-the-badge&logo=Notion&logoColor=white" 
+        alt="Notion"
+      />
+    </a>
+    <a href="https://www.instagram.com/your-instagram-id">
+      <img 
+        src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=Instagram&logoColor=white" 
+        alt="Instagram"
+      />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img 
+        src="https://img.shields.io/badge/Gmail-4B5563?style=for-the-badge&logo=Gmail&logoColor=white" 
+        alt="Gmail"
+      />
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- Tech Stack Section -->
+  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;"> Tech Stack </h2>
+  <div align="center">
+  
+  <!-- Skills I Have -->
+  <h3>Skills I Have</h3>
+  <img src="https://img.shields.io/badge/HTML-4B5563?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-4B5563?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
+
+  <br /><br />
+
+  <!-- Currently Learning -->
+  <h3>Currently Learning</h3>
+  <img src="https://img.shields.io/badge/HTML-4B5563?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-4B5563?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-4B5563?style=for-the-badge&logo=React&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+  
 </div>
 
-<br />
-
-<!-- Contact Section -->
-## <div align="center">🧑‍💻 Contact Me 🧑‍💻</div>
-<div align="center">
-  <!-- Notion -->
-  <a href="https://www.notion.so/your-notion-id">
-    <img
-      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"
-      alt="Notion"
-    />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/jegyeong___">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:your-seojk03155@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-</div>
-
-<br />
-
-<!-- Email -->
-## <div align="center">📧 Email 📧</div>
-<div align="center">
-  <strong>seojk03155@gmail.com</strong>
-</div>
-
-<br />
-
-<!-- Tech Stack -->
-## <div align="center">✨ Tech Stack ✨</div>
-<div align="center">
-
-  <!-- 할 수 있는 기술 스택 -->
-  <p><strong>할 수 있는 기술 스택</strong></p>
+  
+  <br>
+  
+  <!-- Stats Section -->
+  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;"> Stats </h2>
   <img 
-    src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" 
-    alt="HTML" 
+    src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=default" 
+    alt="GitHub Stats" 
+    style="max-width: 100%;"
   />
-  <img 
-    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" 
-    alt="CSS" 
-  />
-  <img 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" 
-    alt="JavaScript" 
-  />
-
-  <br/><br/>
-
-  <!-- 공부 중인 기술 -->
-  <p><strong>공부 중인 기술</strong></p>
-  <img 
-    src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" 
-    alt="HTML" 
-  />
-  <img 
-    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" 
-    alt="CSS" 
-  />
-  <img 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" 
-    alt="JavaScript" 
-  />
-  <img 
-    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" 
-    alt="React" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" 
-    alt="Java" 
-  />
-
-</div>
-
-  <!-- 원하는 스택 뱃지들 -->
-
-  <img
-    src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"
-    alt="C"
-  />
-  <br />
-  <img
-    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"
-    alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
-    alt="Git"
-  />
-  <img
-    src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"
-    alt="Github"
-  />
-</div>
-
-<br />
-
-<!-- Stats -->
-## <div align="center">📋 Stats 📋</div>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=radical"
-    alt="Seojegyeong's GitHub stats"
-  />
-</div>
-
-<br />
-
-<!-- Footer Contact Section -->
-## <div align="center">📫 Contact Me 📫</div>
-<div align="center">
+  
+  <br>
+  
+  <!-- Footer Contact -->
+  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;"> Contact Me </h2>
   <a href="mailto:seojk03155@gmail.com">
-    <img
-      src="https://img.shields.io/badge/seojk03155@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
+    <img 
+      src="https://img.shields.io/badge/seojk03155@gmail.com-4B5563?style=flat-square&logo=gmail&logoColor=white" 
       alt="Email"
     />
   </a>
+  
 </div>
+
 
