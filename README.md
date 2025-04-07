@@ -19,14 +19,14 @@
     />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your-instagram-id">
+  <a href="https://www.instagram.com/jegyeong___">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
   <!-- Gmail -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-seojk03155@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="Gmail"
@@ -55,38 +55,15 @@
 <div align="center">
 
   <!-- 원하는 스택 뱃지들 -->
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"
-    alt="Flask"
-  />
-  <img
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
-    alt="MySQL"
-  />
+
   <img
     src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"
     alt="C"
-  />
-  <img
-    src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"
-    alt="Amazon AWS"
   />
   <br />
   <img
     src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"
     alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"
-    alt="Spring"
-  />
-  <img
-    src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"
-    alt="Spring Boot"
   />
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
