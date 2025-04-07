@@ -47,12 +47,48 @@
 <!-- Tech Stack -->
 ## <div align="center">✨ Tech Stack ✨</div>
 <div align="center">
-  <!-- 가능 기술 -->
-  <p><strong>할 수 있는 기술 스택:</strong> HTML, CSS, JavaScript</p>
-  <!-- 공부 중 기술 -->
-  <p><strong>공부 중인 기술:</strong> HTML, CSS, JavaScript, React, Java</p>
+
+  <!-- 할 수 있는 기술 스택 -->
+  <p><strong>할 수 있는 기술 스택</strong></p>
+  <img 
+    src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" 
+    alt="HTML" 
+  />
+  <img 
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" 
+    alt="CSS" 
+  />
+  <img 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" 
+    alt="JavaScript" 
+  />
+
+  <br/><br/>
+
+  <!-- 공부 중인 기술 -->
+  <p><strong>공부 중인 기술</strong></p>
+  <img 
+    src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" 
+    alt="HTML" 
+  />
+  <img 
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" 
+    alt="CSS" 
+  />
+  <img 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" 
+    alt="JavaScript" 
+  />
+  <img 
+    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" 
+    alt="React" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" 
+    alt="Java" 
+  />
+
 </div>
-<div align="center">
 
   <!-- 원하는 스택 뱃지들 -->
 
