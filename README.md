@@ -1,6 +1,5 @@
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333;">
 
-  <!-- Header Section -->
   <!-- Contact Section -->
   <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">Contact Me</h2>
   <div>
@@ -44,6 +43,10 @@
       src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=JavaScript&logoColor=white" 
       alt="JavaScript" 
     />
+        <img 
+      src="https://img.shields.io/badge/React-4B5563?style=for-the-badge&logo=React&logoColor=white" 
+      alt="React" 
+    />
   </div>
   
   <br>
@@ -78,7 +81,7 @@
   <!-- GitHub Stats Section -->
   <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">GitHub Stats</h2>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=default" 
     alt="GitHub Stats" 
     style="max-width: 100%;"
   />
@@ -94,11 +97,6 @@
         alt="Email"
       />
     </a>
-    <a href="https://www.instagram.com/jegyeong___" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/Instagram-4B5563?style=flat-square&logo=Instagram&logoColor=white" 
-        alt="Instagram"
-      />
     </a>
   </div>
   
