@@ -1,106 +1,71 @@
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333;">
+<!-- Intro -->
+<div align="left">
 
-  <!-- Contact Section -->
-  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">Contact Me</h2>
-  <div>
-    <a href="https://www.instagram.com/jegyeong___" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=Instagram&logoColor=white" 
-        alt="Instagram"
-      />
-    </a>
-    <a href="mailto:seojk03155@gmail.com">
-      <img 
-        src="https://img.shields.io/badge/Gmail-4B5563?style=for-the-badge&logo=Gmail&logoColor=white" 
-        alt="Gmail"
-      />
-    </a>
-  </div>
-  
-  <br>
-  
-  <!-- Email Section -->
-  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">Email</h2>
-  <p><strong>seojk03155@gmail.com</strong></p>
-  
-  <br>
-  
-  <!-- Tech Stack Section -->
-  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">Tech Stack</h2>
-  
-  <!-- Skills I Have -->
-  <h3>Skills I Have</h3>
-  <div>
-    <img 
-      src="https://img.shields.io/badge/HTML-4B5563?style=for-the-badge&logo=HTML5&logoColor=white" 
-      alt="HTML" 
-    />
-    <img 
-      src="https://img.shields.io/badge/CSS-4B5563?style=for-the-badge&logo=CSS3&logoColor=white" 
-      alt="CSS" 
-    />
-    <img 
-      src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=JavaScript&logoColor=white" 
-      alt="JavaScript" 
-    />
-        <img 
-      src="https://img.shields.io/badge/React-4B5563?style=for-the-badge&logo=React&logoColor=white" 
-      alt="React" 
-    />
-  </div>
-  
-  <br>
-  
-  <!-- Currently Learning -->
-  <h3>Currently Learning</h3>
-  <div>
-    <img 
-      src="https://img.shields.io/badge/HTML-4B5563?style=for-the-badge&logo=HTML5&logoColor=white" 
-      alt="HTML" 
-    />
-    <img 
-      src="https://img.shields.io/badge/CSS-4B5563?style=for-the-badge&logo=CSS3&logoColor=white" 
-      alt="CSS" 
-    />
-    <img 
-      src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=JavaScript&logoColor=white" 
-      alt="JavaScript" 
-    />
-    <img 
-      src="https://img.shields.io/badge/React-4B5563?style=for-the-badge&logo=React&logoColor=white" 
-      alt="React" 
-    />
-    <img 
-      src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=Java&logoColor=white" 
-      alt="Java" 
-    />
-  </div>
-  
-  <br>
-  
-  <!-- GitHub Stats Section -->
-  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">GitHub Stats</h2>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=default" 
-    alt="GitHub Stats" 
-    style="max-width: 100%;"
-  />
-  
-  <br>
-  
-  <!-- Footer Contact Section -->
-  <h2 style="border-bottom: 1px solid #e5e7eb; padding-bottom: 10px;">Contact Me</h2>
-  <div>
-    <a href="mailto:seojk03155@gmail.com">
-      <img 
-        src="https://img.shields.io/badge/seojk03155@gmail.com-4B5563?style=flat-square&logo=Gmail&logoColor=white" 
-        alt="Email"
-      />
-    </a>
-    </a>
-  </div>
-  
+## Hi, I'm Jegyeong
+Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.  
+
 </div>
 
+<br/>
+
+<!-- Contact -->
+<div align="left">
+
+## 💌 Contact  
+[![Email](https://img.shields.io/badge/Email-seojk0315%40naver.com-green?logo=gmail&logoColor=white)](mailto:seojk0315@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Seojegyeong-181717?logo=github&logoColor=white)](https://github.com/Seojegyeong)
+[![Velog](https://img.shields.io/badge/Velog-jamie0315.log-20C997?logo=velog&logoColor=white)](https://velog.io/@jamie0315.log)
+[![Instagram](https://img.shields.io/badge/Instagram-jegyeong___-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jegyeong___)  
+
+</div>
+
+<br/>
+
+<!-- Tech Stack -->
+<div align="left">
+
+## 🛠 Tech Stack  
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+
+**Currently Learning**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+
+**Collaboration**  
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)  
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="left">
+
+## 📊 GitHub Stats  
+
+<a href="https://github.com/Seojegyeong">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=graywhite&hide=contribs,prs" alt="Seojegyeong's GitHub stats" />
+</a>
+</div>
+
+<br/>
 
 
+<!-- Latest Velog Post -->
+<div align="left">
+
+## 🌱 Latest from Velog  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jamie0315)](https://velog.io/@jamie0315)
+
+</div>
