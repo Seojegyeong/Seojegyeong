@@ -14,7 +14,7 @@ Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.
 ## 💌 Contact  
 [![Email](https://img.shields.io/badge/Email-seojk0315%40naver.com-green?logo=gmail&logoColor=white)](mailto:seojk0315@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Seojegyeong-181717?logo=github&logoColor=white)](https://github.com/Seojegyeong)
-[![Velog](https://img.shields.io/badge/Velog-jamie0315.log-20C997?logo=velog&logoColor=white)](https://velog.io/@jamie0315.log)
+[![Velog](https://img.shields.io/badge/Velog-jamie0315.log-20C997?logo=velog&logoColor=white)](https://velog.io/@jamie0315/posts)
 [![Instagram](https://img.shields.io/badge/Instagram-jegyeong___-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jegyeong___)  
 
 </div>
