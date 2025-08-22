@@ -1,9 +1,20 @@
 <!-- Intro -->
 <div align="left">
-
+  
 ## Hi, I'm Jegyeong
 Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.  
 
+</div>
+
+<br/>
+
+<!-- 깃허브 펫 -->
+<div align="left">
+  <img
+    src="https://render.gitanimals.org/lines/Seojegyeong?pet-id=727129387811252465"
+    width="30%"
+    height="200"
+  />
 </div>
 
 <br/>
@@ -50,17 +61,19 @@ Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.
 <br/>
 
 <!-- GitHub Stats -->
+## ✨ Github Stats ✨
+
 <div align="left">
+    <img width=81% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seojegyeong&theme=nord_dark" />
+</div>
 
-## 📊 GitHub Stats  
-
-<a href="https://github.com/Seojegyeong">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=graywhite&hide=contribs,prs" alt="Seojegyeong's GitHub stats" />
-</a>
+<div align="left">
+    <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seojegyeong&theme=nord_dark" />
+    <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seojegyeong&theme=nord_dark" />
+    <img width=30% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Seojegyeong" />
 </div>
 
 <br/>
-
 
 <!-- Latest Velog Post -->
 <div align="left">
