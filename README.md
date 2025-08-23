@@ -70,7 +70,6 @@ Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.
 <div align="left">
     <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seojegyeong&theme=nord_dark" />
     <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seojegyeong&theme=nord_dark" />
-    <img width=30% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Seojegyeong" />
 </div>
 
 <br/>
