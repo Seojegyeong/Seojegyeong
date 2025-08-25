@@ -62,16 +62,8 @@ Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.
 
 <!-- GitHub Stats -->
 ## ✨ Github Stats ✨
-
-<div align="left">
-    <img width=81% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seojegyeong&theme=nord_dark" />
-</div>
-
-<div align="left">
-    <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seojegyeong&theme=nord_dark" />
-    <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seojegyeong&theme=nord_dark" />
-</div>
-
+![Jegyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seojegyeong&layout=compact)
 <br/>
 
 <!-- Latest Velog Post -->
