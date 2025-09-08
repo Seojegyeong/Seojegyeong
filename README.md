@@ -65,11 +65,3 @@ Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.
 ![Jegyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seojegyeong&layout=compact)
 <br/>
-
-<!-- Latest Velog Post -->
-<div align="left">
-
-## 🌱 Latest from Velog  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jamie0315)](https://velog.io/@jamie0315)
-
-</div>
