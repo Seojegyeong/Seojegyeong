@@ -1,66 +1,127 @@
 <!-- Intro -->
-<div align="left">
+<div align="center">
   
-## Hi, I'm Jegyeong
-Aspiring Frontend Developer 🌱 | Documenting my learning and growth journey.  
+### I'm Jegyeong | Frontend Developer 
 
-</div>
-
-<br/>
-
-<!-- 깃허브 펫 -->
-<div align="left">
-  <img
-    src="https://render.gitanimals.org/lines/Seojegyeong?pet-id=727129387811252465"
-    width="30%"
-    height="200"
-  />
 </div>
 
 <br/>
 
 <!-- Contact -->
-<div align="left">
+<div align="center">
 
-## 💌 Contact  
-[![Email](https://img.shields.io/badge/Email-seojk0315%40naver.com-green?logo=gmail&logoColor=white)](mailto:seojk0315@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seojegyeong-181717?logo=github&logoColor=white)](https://github.com/Seojegyeong)
-[![Instagram](https://img.shields.io/badge/Instagram-jegyeong___-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jegyeong___)  
+##  Contact  
+
+<a href="https://www.instagram.com/jegyeong___" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="52"/>
+</a>
+<a href="mailto:seojk03155@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="52"/>
+</a>
+<a href="https://github.com/Seojegyeong" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="github" height="52"/>
+</a>
+
 
 </div>
 
 <br/>
 
 <!-- Tech Stack -->
-<div align="left">
+<div align="center">
 
-## 🛠 Tech Stack  
+## Tech Stack
+  
+  <table>
+    <tr>
+      <th align="center">Frontend</th>
+      <th align="center">Web Basics</th>
+      <th align="center">Languages</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,tailwind&perline=5" alt="Frontend Stack" height="52"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css&perline=2" alt="Web Basics" height="52"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py,java,c&perline=4" alt="Languages" height="52"/></td>
+    </tr>
+    <tr>
+      <th align="center">Collaboration</th>
+      <th align="center">Open Source</th>
+      <th align="center">Design Tools</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=discord,figma,notion&perline=4" alt="Collaboration Tools" height="52"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github,aws&perline=2" alt="Open Source Tools" height="52"/></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=3" alt="Design Tools" height="52"/></td>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+<br/>
 
-**Currently Learning**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+<!-- Experience -->
+<div align="center">
 
-**Collaboration**  
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)  
+  ## Experience
+  
+  <table>
+    <tr>
+      <th>기간</th>
+      <th>내용</th>
+    </tr>
+    <tr><td>2025.01</td><td>AWS Certified Cloud Practitioner 취득 </td></tr>
+    <tr><td>2025.03 ~ 2025.08</td><td>UMC 8기 WEB 챌린저</td></tr>
+    <tr><td>2025.09 ~ 현재</td><td>UMC 9기 WEB 시니어 챌린저</td></tr>
+    <tr><td>2025.09 ~ 현재</td><td>잇타(IT’s TIME) 8기 WEB</td></tr>
+  </table>
+</div>
 
+<br/>
+
+<!-- Project -->
+<div align="center">
+
+  ## Projects
+  
+  <table>
+    <tr>
+      <th>기간</th>
+      <th>프로젝트</th>
+      <th>내용</th>
+      <th>역할</th>
+    </tr>
+    <tr>
+      <td>2024.03~ 2024.08</td>
+      <td><a href="https://github.com/Seojegyeong/SMP"><b>SMP</b></a></td>
+      <td>위치 기반으로 정보 공유, 채팅을 통해 소통할 수 있는 커뮤니티 플랫폼</td>
+      <td>Frontend</td>
+    </tr>
+    <tr>
+      <td>2025.06 ~ 2025.08</td>
+      <td><a href="https://github.com/WithTime12/WithTimeFE"><b>WithTime</b></a></td>
+      <td>AI기반 데이트코스 추천 서비스</td>
+      <td>Frontend</td>
+    </tr>
+    <tr>
+      <td>2025.06 ~ 현재</td>
+      <td><a href="https://github.com/Seojegyeong/Roome"><b>ROOME</b></a></td>
+      <td>인테리어 제품을 추천해주는 AI 기반 인테리어 플랫폼</td>
+      <td>Frontend</td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <!-- GitHub Stats -->
-## ✨ Github Stats ✨
+<div align="center">
+
+## Github Stats
+
 ![Jegyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seojegyeong&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seojegyeong&layout=compact)
+
+</div>
+
 <br/>
+
