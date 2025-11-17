@@ -70,6 +70,7 @@
       <th>기간</th>
       <th>내용</th>
     </tr>
+    <tr><td>2023.03 ~ 2024.03</td><td>영상 제작 동아리 VJ - VI Team</td></tr>
     <tr><td>2025.01</td><td>AWS Certified Cloud Practitioner 취득 </td></tr>
     <tr><td>2025.03 ~ 2025.08</td><td>UMC 8기 WEB 챌린저</td></tr>
     <tr><td>2025.09 ~ 현재</td><td>UMC 9기 WEB 시니어 챌린저</td></tr>
