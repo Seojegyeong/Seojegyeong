@@ -3,29 +3,7 @@
   
 ### I'm Jegyeong | Frontend Developer 
 
-</div>
-
-<br/>
-
-<!-- Contact -->
-<div align="center">
-
-##  Contact  
-
-<a href="https://www.instagram.com/jegyeong___" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="52"/>
-</a>
-<a href="mailto:seojk03155@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="52"/>
-</a>
-<a href="https://github.com/Seojegyeong" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="github" height="52"/>
-</a>
-
-
-</div>
-
-<br/>
+<br />
 
 <!-- Tech Stack -->
 <div align="center">
@@ -93,7 +71,7 @@
       <th>역할</th>
     </tr>
     <tr>
-      <td>2024.03~ 2024.08</td>
+      <td>2025.03~ 2025.08</td>
       <td><a href="https://github.com/Seojegyeong/SMP"><b>SMP</b></a></td>
       <td>위치 기반으로 정보 공유, 채팅을 통해 소통할 수 있는 커뮤니티 플랫폼</td>
       <td>Frontend</td>
