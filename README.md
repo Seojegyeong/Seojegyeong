@@ -93,13 +93,3 @@
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## Github Stats
-
-
-</div>
-
-<br/>
-
