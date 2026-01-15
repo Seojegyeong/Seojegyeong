@@ -51,8 +51,8 @@
     <tr><td>2023.03 ~ 2024.03</td><td>영상 제작 동아리 VJ - VI Team</td></tr>
     <tr><td>2025.01</td><td>AWS Certified Cloud Practitioner 취득 </td></tr>
     <tr><td>2025.03 ~ 2025.08</td><td>UMC 8기 WEB 챌린저</td></tr>
-    <tr><td>2025.09 ~ 현재</td><td>UMC 9기 WEB 시니어 챌린저</td></tr>
-    <tr><td>2025.09 ~ 현재</td><td>잇타(IT’s TIME) 8기 WEB</td></tr>
+    <tr><td>2025.09 ~ 2026.02</td><td>UMC 9기 WEB 시니어 챌린저</td></tr>
+    <tr><td>2025.09 ~ 2026.01</td><td>잇타(IT’s TIME) 8기 WEB</td></tr>
   </table>
 </div>
 
@@ -71,19 +71,13 @@
       <th>역할</th>
     </tr>
     <tr>
-      <td>2025.03~ 2025.08</td>
-      <td><a href="https://github.com/Seojegyeong/SMP"><b>SMP</b></a></td>
-      <td>위치 기반으로 정보 공유, 채팅을 통해 소통할 수 있는 커뮤니티 플랫폼</td>
-      <td>Frontend</td>
-    </tr>
-    <tr>
       <td>2025.06 ~ 2025.08</td>
       <td><a href="https://github.com/WithTime12/WithTimeFE"><b>WithTime</b></a></td>
       <td>AI기반 데이트코스 추천 서비스</td>
       <td>Frontend</td>
     </tr>
     <tr>
-      <td>2025.06 ~ 현재</td>
+      <td>2025.06 ~ 2026.01</td>
       <td><a href="https://github.com/Seojegyeong/Roome"><b>ROOME</b></a></td>
       <td>인테리어 제품을 추천해주는 AI 기반 인테리어 플랫폼</td>
       <td>Frontend</td>
