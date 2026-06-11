@@ -60,7 +60,6 @@
 
 <!-- Project -->
 <div align="center">
-
   ## Projects
   
   <table>
@@ -82,8 +81,15 @@
       <td>인테리어 제품을 추천해주는 AI 기반 인테리어 플랫폼</td>
       <td>Frontend</td>
     </tr>
+    <tr>
+      <td>2025.01 ~ 2025.09</td>
+      <td><a href="여기에-링크"><b>WYAD</b></a></td>
+      <td>멀티 광고 플랫폼 데이터를 통합·분석하고 AI 기반 인사이트를 제공하는 광고 성과 관리 플랫폼</td>
+      <td>Frontend Lead</td>
+    </tr>
   </table>
 </div>
+<br/>
 
 <br/>
 
