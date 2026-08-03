@@ -60,6 +60,7 @@
 
 <!-- Project -->
 <div align="center">
+  
   ## Projects
   
   <table>
