@@ -3,38 +3,38 @@
   
 ### I'm Jegyeong | Frontend Developer 
 
+</div>
+
 <br />
 
 <!-- Tech Stack -->
 <div align="center">
 
 ## Tech Stack
-  
-  <table>
-    <tr>
-      <th align="center">Frontend</th>
-      <th align="center">Web Basics</th>
-      <th align="center">Languages</th>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,tailwind&perline=5" alt="Frontend Stack" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css&perline=2" alt="Web Basics" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,java,c&perline=4" alt="Languages" height="52"/></td>
-    </tr>
-    <tr>
-      <th align="center">Collaboration</th>
-      <th align="center">Open Source</th>
-      <th align="center">Design Tools</th>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,figma,notion&perline=4" alt="Collaboration Tools" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github,aws&perline=2" alt="Open Source Tools" height="52"/></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=3" alt="Design Tools" height="52"/></td>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<table>
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Web Basics</th>
+    <th align="center">Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,tailwind&perline=5" alt="Frontend Stack" height="52"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css&perline=2" alt="Web Basics" height="52"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend Stack" height="52"/></td>
+  </tr>
+  <tr>
+    <th align="center">Collaboration</th>
+    <th align="center">Open Source</th>
+    <th align="center">Design Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=discord,notion&perline=2" alt="Collaboration Tools" height="52"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github,aws&perline=2" alt="Open Source Tools" height="52"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Design Tools" height="52"/></td>
+  </tr>
+</table>
+</div>
 <br/>
 
 
@@ -48,7 +48,6 @@
       <th>기간</th>
       <th>내용</th>
     </tr>
-    <tr><td>2023.03 ~ 2024.03</td><td>영상 제작 동아리 VJ - VI Team</td></tr>
     <tr><td>2025.01</td><td>AWS Certified Cloud Practitioner 취득 </td></tr>
     <tr><td>2025.03 ~ 2025.08</td><td>UMC 8기 WEB 챌린저</td></tr>
     <tr><td>2025.09 ~ 2026.02</td><td>UMC 9기 WEB 시니어 챌린저</td></tr>
@@ -83,10 +82,16 @@
       <td>Frontend</td>
     </tr>
     <tr>
-      <td>2025.01 ~ 2025.09</td>
-      <td><a href="여기에-링크"><b>WYAD</b></a></td>
+      <td>2026.01 ~ 2026.09</td>
+      <td><a href="https://github.com/Seojegyeong/WhereYouAd"><b>WYAD</b></a></td>
       <td>멀티 광고 플랫폼 데이터를 통합·분석하고 AI 기반 인사이트를 제공하는 광고 성과 관리 플랫폼</td>
       <td>Frontend Lead</td>
+    </tr>
+    <tr>
+      <td>2026.07 ~ 2026.09</td>
+      <td><a href="https://github.com/Seojegyeong/Light"><b>Light</b></a></td>
+      <td>금융 용어를 AI로 자동 감지해 검색 없이 바로 이해하는 Chrome 확장 프로그램</td>
+      <td>Full-stack</td>
     </tr>
   </table>
 </div>
