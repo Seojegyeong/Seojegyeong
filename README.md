@@ -76,7 +76,7 @@
       <td>Frontend</td>
     </tr>
     <tr>
-      <td>2025.06 ~ 2026.01</td>
+      <td>2025.09 ~ 2026.01</td>
       <td><a href="https://github.com/Seojegyeong/Roome"><b>ROOME</b></a></td>
       <td>인테리어 제품을 추천해주는 AI 기반 인테리어 플랫폼</td>
       <td>Frontend</td>
