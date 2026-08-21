@@ -1,11 +1,3 @@
-<!-- Intro -->
-<div align="center">
-  
-### I'm Jegyeong | Frontend Developer 
-
-</div>
-
-<br />
 
 <!-- Tech Stack -->
 <div align="center">
